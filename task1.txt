@@ -1,0 +1,6 @@
+1 - hit the url
+2 - select the date range
+3 - download the excel file
+4 - Remove the duplicate entry
+5 - for the each remaing entry take the id and hit it on the url and the go to the document and and search the 101 form and download the pdf file
+6 - extract the pdf data and get address and save it in the csv file

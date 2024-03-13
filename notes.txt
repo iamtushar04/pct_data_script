@@ -1,0 +1,5 @@
+"CHROME_PDF_DOWNLOAD_PREFERENCE": {
+    "download.prompt_for_download": false,
+    "download.directory_upgrade": true,
+    "plugins.always_open_pdf_externally": true
+  },

@@ -1,0 +1,3 @@
+winR
+cmd
+Netsh wlan show profilename="your wifi" key=clear

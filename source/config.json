@@ -1,0 +1,8 @@
+{
+  "URL": "https://patentscope.wipo.int/search/en/resultWeeklyBrowse.jsf",
+  "EXCEL_INPUT_FILE": "C:/Users/jaswa/Downloads/resultList_03_feb_2022.xls",
+  "OUTPUT_CSV": "Reports_feb_2022_week_1.csv",
+  "DOC_URL": "https://patentscope.wipo.int/search/en/detail.jsf?docId={doc_id}",
+  "DOWNLOAD_PATH": "C:/Users/jaswa/Downloads",
+  "CSV_HEADERS": "['Publication Number', 'Publication Date', 'International Application No.', 'International Filing Date',\n         'IPC Applicants', 'Inventors', 'Priority Data', 'Publication Language', 'Filing Language', 'pdf_data', 'Agents']"
+}

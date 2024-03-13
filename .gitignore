@@ -1,0 +1,6 @@
+venv
+*.csv
+*.zip
+.ipynb_checkpoints
+Untitled.ipynb
+__pycache__
